@@ -13,3 +13,6 @@ Personal productivity apps when developing
 
 # Numi
 ``brew cask install numi``
+
+# Macs Fan Control
+``brew cask install macs-fan-control``
