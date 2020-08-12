@@ -16,3 +16,7 @@ Personal productivity apps when developing
 
 # Macs Fan Control
 ``brew cask install macs-fan-control``
+
+# MTMR
+Personalise your TouchBar\
+``brew cask install mtmr``
