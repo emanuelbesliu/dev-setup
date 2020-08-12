@@ -7,3 +7,6 @@ Personal productivity apps when developing
 
 # Alfred
 ``brew cask install alfred``
+
+# InsomniaX
+``brew cask install insomniax``
