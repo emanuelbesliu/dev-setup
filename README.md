@@ -10,3 +10,6 @@ Personal productivity apps when developing
 
 # InsomniaX
 ``brew cask install insomniax``
+
+# Numi
+``brew cask install numi``
