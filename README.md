@@ -24,3 +24,6 @@ Personalise your TouchBar
 
 # BlueSense
 ``brew cask install bluesense``
+
+# PasswordManager
+[NordPass](https://nordpass.com)
