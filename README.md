@@ -21,3 +21,6 @@ Personal productivity apps when developing
 ``brew cask install mtmr``
 \
 Personalise your TouchBar
+
+# BlueSense
+``brew cask install bluesense``
