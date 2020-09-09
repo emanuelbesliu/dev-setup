@@ -25,5 +25,8 @@ Personalise your TouchBar
 # BlueSense
 ``brew cask install bluesense``
 
+# DropZone4
+[AppStoe](https://apps.apple.com/app/id1485052491?mt=12)
+
 # PasswordManager
 [NordPass](https://nordpass.com)
