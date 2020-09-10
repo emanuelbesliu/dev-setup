@@ -32,5 +32,9 @@ Personalise your TouchBar
 
 [MemoryCleaner](https://nektony.com/memory-cleaner)
 
+# BitBar
+
+[BitBar](https://github.com/Shikkic/gitbar)
+
 # PasswordManager
 [NordPass](https://nordpass.com)
