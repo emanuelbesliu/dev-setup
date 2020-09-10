@@ -28,5 +28,9 @@ Personalise your TouchBar
 # DropZone4
 [AppStore](https://apps.apple.com/app/id1485052491?mt=12)
 
+# MemoryCleaner
+
+[MemoryCleaner] (https://nektony.com/memory-cleaner)
+
 # PasswordManager
 [NordPass](https://nordpass.com)
