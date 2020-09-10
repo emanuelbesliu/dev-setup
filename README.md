@@ -30,7 +30,7 @@ Personalise your TouchBar
 
 # MemoryCleaner
 
-[MemoryCleaner] (https://nektony.com/memory-cleaner)
+[MemoryCleaner](https://nektony.com/memory-cleaner)
 
 # PasswordManager
 [NordPass](https://nordpass.com)
